@@ -1,1 +1,2 @@
-# cats_dogs_classifier
+# Cats vs Dogs classifier
+
