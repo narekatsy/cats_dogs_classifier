@@ -209,4 +209,4 @@ __marimo__/
 raw/
 processed/
 processed_padding/
-saved_models/
+*h5
